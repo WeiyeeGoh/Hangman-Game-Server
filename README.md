@@ -1,1 +1,2 @@
 # Hangman-over-Network
+Hangman server that can handle multiple hangman games at a time using basic pthread library. This program is limited to 3 at a time, but can be scaled higher. Messages are sent over TCP. 
